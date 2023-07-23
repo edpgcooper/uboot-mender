@@ -1,3 +1,5 @@
+EPC Comments, I have edited this file so u-boot supports dtoverlay=disable-bt
+
 # SPDX-License-Identifier: GPL-2.0+
 #
 # (C) Copyright 2000 - 2013
